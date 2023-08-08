@@ -1,0 +1,16 @@
+/home/petrolhead/c#./bin/Debug/net5.0/c#.
+/home/petrolhead/c#./bin/Debug/net5.0/c#..deps.json
+/home/petrolhead/c#./bin/Debug/net5.0/c#..runtimeconfig.json
+/home/petrolhead/c#./bin/Debug/net5.0/c#..runtimeconfig.dev.json
+/home/petrolhead/c#./bin/Debug/net5.0/c#..dll
+/home/petrolhead/c#./bin/Debug/net5.0/ref/c#..dll
+/home/petrolhead/c#./bin/Debug/net5.0/c#..pdb
+/home/petrolhead/c#./obj/Debug/net5.0/c#..csproj.AssemblyReference.cache
+/home/petrolhead/c#./obj/Debug/net5.0/c#..GeneratedMSBuildEditorConfig.editorconfig
+/home/petrolhead/c#./obj/Debug/net5.0/c#..AssemblyInfoInputs.cache
+/home/petrolhead/c#./obj/Debug/net5.0/c#..AssemblyInfo.cs
+/home/petrolhead/c#./obj/Debug/net5.0/c#..csproj.CoreCompileInputs.cache
+/home/petrolhead/c#./obj/Debug/net5.0/c#..dll
+/home/petrolhead/c#./obj/Debug/net5.0/ref/c#..dll
+/home/petrolhead/c#./obj/Debug/net5.0/c#..pdb
+/home/petrolhead/c#./obj/Debug/net5.0/c#..genruntimeconfig.cache
