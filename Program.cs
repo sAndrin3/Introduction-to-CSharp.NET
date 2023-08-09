@@ -1,7 +1,8 @@
 ﻿using System;
+using Pattern;
 
 // Hello World
-    class Program7
+class Program7
     {
         static void Main(string[] args)
         {
@@ -72,7 +73,7 @@ class Program3 {
 
 // //Implicit casting
 
-class Program{
+class Program0{
     static void Main(){
         // int myInt = 9;
         // double myDouble = myInt;
@@ -125,3 +126,8 @@ class Program8{
         System.Console.WriteLine($"After: {num}");
     }
 }
+
+// uncomment the code for the one below to work
+// using Pattern;
+// Hash hash = new Hash();
+// hash.Hashes(3);
