@@ -9,7 +9,7 @@
         }
     }
 
-//Predefined data types
+// //Predefined data types
 class Program6 {
     static void Main()
     {
@@ -21,7 +21,7 @@ class Program6 {
     }
 }
 
-//user-defined data types
+// //user-defined data types
 class Person{
     public string Name {get; set; }
     public int Age {get; set; }
@@ -41,7 +41,7 @@ class Program5 {
     }
 }
 
-// String data type
+// // String data type
 
 class Program4{
     static void Main(){
@@ -53,7 +53,7 @@ class Program4{
     }
 }
 
-// Numeric data types without decimald
+// // Numeric data types without decimald
 
 class Program3 {
     static void Main(){
@@ -70,7 +70,7 @@ class Program3 {
     }
 }
 
-//Implicit casting
+// //Implicit casting
 
 class Program{
     static void Main(){
@@ -85,7 +85,7 @@ class Program{
     }
 }
 
-// Explicit casting
+// // Explicit casting
 
 class Program2{
     static void Main(){
@@ -96,7 +96,7 @@ class Program2{
         System.Console.WriteLine(myInt);
     }
 
-// Type conversion
+// // Type conversion
 
 class Program1{
     static void Main(){
@@ -111,4 +111,17 @@ class Program1{
     }
 }
 
+}
+
+//using ref
+class Program8{
+    static void ModifyValue(ref int value){
+        value=10;
+    }
+    static void Main(){
+        int num = 5;
+        System.Console.WriteLine($"Before: {num}");
+        ModifyValue(ref num);
+        System.Console.WriteLine($"After: {num}");
+    }
 }
